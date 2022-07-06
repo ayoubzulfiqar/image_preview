@@ -21,4 +21,4 @@ Soon I will implement the set wallpaper functionality.
 
 #### App Demo
 
-![Demo](screenshots\ImagePreviewGIF.gif)
+![Demo](screenshots/ImagePreviewGIF.gif)
